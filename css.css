@@ -1,7 +1,7 @@
 body{color:#8B0000;
     background:#FFB6C1;}
 .link{color:rgb(255, 156, 35); font-size:100px;  vertical-align: bottom;}
-.nhtml {background: url('картинки/video.mp4');
+.nhtml {background: url('/картинки/video.mp4');
     background-size: cover;
     text-align: center;
   }
